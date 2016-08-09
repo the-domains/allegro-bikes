@@ -1,0 +1,14 @@
+layout_spectrum: 0.5745434
+typography_spectrum: 0.9441811
+color:
+  saturation: 0.9995167
+  lightness: 0.7141546
+  brandStrength: 0.11868
+  rhythmicContrast: 0.6361734
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Allegro-Bikes
