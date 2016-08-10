@@ -1,14 +1,26 @@
-layout_spectrum: 0.5745434
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.9441811
 color:
   saturation: 0.9995167
+  brandStrength: 0.5257788
   lightness: 0.7141546
-  brandStrength: 0.11868
-  rhythmicContrast: 0.6361734
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#E6E4D7'
+    - '#1F1F1D'
+    - '#C2B7A4'
+    - '#94958D'
+    - '#75756B'
+  rhythmicContrast: 0.6361734
+layout_spectrum: 0.5745434
 name: Allegro-Bikes
